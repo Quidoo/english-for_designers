@@ -1,2 +1,2 @@
-# english-for_designers
+# english-for-designers
 class
