@@ -1,5 +1,7 @@
 # Instructions
 
+![Composition 1]()
+
 ### Hi there! If you follow my instruction correctly, you will get good karma. Good luck!
 
 You will draw five rectangles located next to each other in the middle of your drawing space. The width of each rectangle is the same, but their heights are different. The width is approximately 1,5 cm. They are spaced evenly, and the space is approx 0,5 cm.
