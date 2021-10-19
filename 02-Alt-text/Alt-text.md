@@ -1,4 +1,4 @@
-#Alt text
+# Alt text
 
 1. poster of 3D, metal, abstract, capital letter F on a dark cloudy background. Around the letter F is circular glass.
 2. Metallic letter F, 3 circular glasses, dark and cloudy background.
