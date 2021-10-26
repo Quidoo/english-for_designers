@@ -8,7 +8,7 @@
 6. Abstract uppercase letter F floating in the clouds.
 7. Shiny abstract letter F between glass.
 
-# Favourites
+# Favorites
 
 1. poster of 3D, metal, abstract, capital letter F on a dark cloudy background. Around the letter F is circular glass.
 2. Metallic letter F, 3 circular glasses, dark and cloudy background.
