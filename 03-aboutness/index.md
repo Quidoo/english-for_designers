@@ -1,7 +1,8 @@
 # Jiří Chyla
 
-## Hello there. My name is Jirka, Jiří, Jiřík or George and I am graphic desginer, artist and drummer based in Jirkov.
+## About me
 
+Hello there. My name is Jirka, Jiří, Jiřík or George and I am a graphic desginer, artist and drummer based in Jirkov.
 
 - [View Selected Case Study](case-study.md) <!-- A link to your case study -->
 
