@@ -21,10 +21,10 @@ This visual identity was then applied ti posters, office hours plates and other 
 
 The main challenge was to design the orientation systems. I started with maps which needed to be a simplified floor plan of the building. With that, I needed to design pictograms and captions.
 
-![pictograms, maps and captions.](img/ordinacni-hodiny.png)
+![pictograms, maps and captions.](img/6.png)
 
 ## Website
 
 Lastly, I was asked to redesign their website. The current one does not communicate what they do. I applied the visual identity I have designed and made the UI/UX more intuitive.
 
-![Main page design](Main page.png)
+![Main page design](img/Main page.png)
