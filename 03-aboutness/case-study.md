@@ -27,4 +27,4 @@ The main challenge was to design the orientation systems. I started with maps wh
 
 Lastly, I was asked to redesign their website. The current one does not communicate what they do. I applied the visual identity I have designed and made the UI/UX more intuitive.
 
-![Main page design](img/Main page.png)
+![Main page design](img/Mainpage.png)
