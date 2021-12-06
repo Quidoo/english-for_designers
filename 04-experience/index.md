@@ -15,8 +15,11 @@ Instagram: @jirkachyla
 **One of the founders of studio Gadzook and Creative director.* 2020 - now
 
 **Gymnasium Chomutov** Visual identity, orientation systems and communication for gymnasium in Chomutov
+
 **Cepei** Visual identity and branding for permaculture institut
+
 **Apolena Cottage** Visual identity and communication for mountain cottage
+
 **Pola poke** visual identity and branding for Poke restaurant
 **Zubní klinika** visual identity and orientation systems for dental clinic
 
