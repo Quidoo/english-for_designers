@@ -3,15 +3,11 @@ Czech Republic-based brand designer, and artist
 
 ## Contact
 
-Email: chyla@gadzook.cz
-
-Phone: +420 725 462 141
-
-Web: www.gadzook.cz
-
-Behance: https://www.behance.net/jirichyla
-
-Instagram: @jirkachyla
+- Email: chyla@gadzook.cz
+- Phone: +420 725 462 141
+- Web: www.gadzook.cz
+- Behance: https://www.behance.net/jirichyla
+ -Instagram: @jirkachyla
 
 ## Experience
 
@@ -47,11 +43,8 @@ Instagram: @jirkachyla
 ## Achievements
 
 - 2019 Finals of Redbull Brand Run
-
 - Lectured at University Of Creative Comunication
-
 - Featured on Startujeme online
-
 - Did a Talk on Startujeme online podcast
 
 ## Skils
@@ -65,15 +58,15 @@ Instagram: @jirkachyla
 
 ## Tools
 
--Illustrator
--Photoshop
--Lightroom
--After effects
--Premiere
--Indesign
--Adobe XD
--Cinema 4D
--Marvelous designer
+- Illustrator
+- Photoshop
+- Lightroom
+- After effects
+- Premiere
+- Indesign
+- Adobe XD
+- Cinema 4D
+- Marvelous designer
 
 ## Education
 
