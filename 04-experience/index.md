@@ -65,5 +65,5 @@ Czech Republic-based brand designer, and artist
 
 BcA in Graphic design VŠKK in Prague University Of Creative Comunication
 
-- [Download CV (PDF)](pdf/CV.pdf)
+- [Download CV (PDF)](PDF/CV.pdf)
 
