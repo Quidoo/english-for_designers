@@ -26,6 +26,7 @@ Czech Republic-based brand designer, and artist
 ### Freelance graphic designer
 **Created visual identities for brands and events.** - 2016 - 2020
 
+- **Czech Embassy Bike Challenge** Logo for event at Washington DC
 - **Fit and Health** Boxed personalised food
 - **Beer pentathlon** event for lovers of sport and a good beer
 - **Footballin** nonprofit sport organisation
