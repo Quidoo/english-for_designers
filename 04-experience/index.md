@@ -12,7 +12,7 @@ Czech Republic-based brand designer, and artist
 ## Experience
 
 ### Gadzook studio
-**One of the founders of studio Gadzook and Creative director.** 2020 - now
+**One of the founders of studio Gadzook and a Creative director.** - 2020 - now
 
 **Gymnasium Chomutov** Visual identity, orientation systems and communication for gymnasium in Chomutov
 
@@ -25,10 +25,10 @@ Czech Republic-based brand designer, and artist
 **Zubní klinika** visual identity and orientation systems for dental clinic
 
 ### Trifor studio
-**Worked as an external graphic designer and consultant.** 2019 - 2020
+**Worked as an external graphic designer and consultant.** - 2019 - 2020
 
 ### Freelance graphic designer
-**Created visual identities for brands and events** 2016 - 2020
+**Created visual identities for brands and events.** - 2016 - 2020
 
 **Fit and Health** Boxed personalised food
 
