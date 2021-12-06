@@ -7,7 +7,7 @@ Czech Republic-based brand designer, and artist
 - Phone: +420 725 462 141
 - Web: www.gadzook.cz
 - Behance: https://www.behance.net/jirichyla
- -Instagram: @jirkachyla
+- Instagram: @jirkachyla
 
 ## Experience
 
