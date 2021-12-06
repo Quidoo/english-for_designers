@@ -40,7 +40,7 @@ Czech Republic-based brand designer, and artist
 - Featured on Startujeme online
 - Did a Talk on Startujeme online podcast
 
-## Skils
+## Skills
 
 - Visual Identity
 - Branding
