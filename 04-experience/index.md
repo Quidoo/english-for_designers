@@ -14,15 +14,11 @@ Czech Republic-based brand designer, and artist
 ### Gadzook studio
 **One of the founders of studio Gadzook and a Creative director.** - 2020 - now
 
-**Gymnasium Chomutov** Visual identity, orientation systems and communication for gymnasium in Chomutov
-
-**Cepei** Visual identity and branding for permaculture institut
-
-**Apolena Cottage** Visual identity and communication for mountain cottage
-
-**Pola poke** visual identity and branding for Poke restaurant
-
-**Zubní klinika** visual identity and orientation systems for dental clinic
+- **Gymnasium Chomutov** Visual identity, orientation systems and communication for gymnasium in Chomutov
+- **Cepei** Visual identity and branding for permaculture institut
+- **Apolena Cottage** Visual identity and communication for mountain cottage
+- **Pola poke** visual identity and branding for Poke restaurant
+- **Zubní klinika** visual identity and orientation systems for dental clinic
 
 ### Trifor studio
 **Worked as an external graphic designer and consultant.** - 2019 - 2020
@@ -30,15 +26,11 @@ Czech Republic-based brand designer, and artist
 ### Freelance graphic designer
 **Created visual identities for brands and events.** - 2016 - 2020
 
-**Fit and Health** Boxed personalised food
-
-**Beer pentathlon** event for lovers of sport and a good beer
-
-**Footballin** nonprofit sport organisation
-
-**Halving dentist** event for graduating dentists at Pilsen
-
-**Balonkomat** shop with party supplies and event planners
+- **Fit and Health** Boxed personalised food
+- **Beer pentathlon** event for lovers of sport and a good beer
+- **Footballin** nonprofit sport organisation
+- **Halving dentist** event for graduating dentists at Pilsen
+- **Balonkomat** shop with party supplies and event planners
 
 ## Achievements
 
