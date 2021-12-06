@@ -46,22 +46,22 @@ Instagram: @jirkachyla
 
 ## Achievements
 
--2019 Finals of Redbull Brand Run
+- 2019 Finals of Redbull Brand Run
 
--Lectured at University Of Creative Comunication
+- Lectured at University Of Creative Comunication
 
--Featured on Startujeme online
+- Featured on Startujeme online
 
--Did a Talk on Startujeme online podcast
+- Did a Talk on Startujeme online podcast
 
 ## Skils
 
--Visual Identity
--Branding
--Project management
--Motion graphic
--3D art
--Prototyping
+- Visual Identity
+- Branding
+- Project management
+- Motion graphic
+- 3D art
+- Prototyping
 
 ## Tools
 
