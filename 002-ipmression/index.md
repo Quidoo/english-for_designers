@@ -5,21 +5,21 @@ Hi there! My name is Jiří Chyla (George Ch. if you do not want to destroy your
 
 ### 1. Dentist Clinic
 
-!(img/mapa_full2.jpg)
-!(img/ordinacni-hodiny.jpg)
-!(img/ukázka.jpg)
+![picture](img/mapa_full2.jpg)
+![picture](img/ordinacni-hodiny.jpg)
+![picture](img/ukázka.jpg)
 
 ### 2. Pola Poke
 
-!(img/1.jpg)
-!(img/2.jpg)
-!(img/ukázka.jpg)
+![picture](img/1.jpg)
+![picture](img/2.jpg)
+![picture](img/ukázka.jpg)
 
 ### 3. Fit and Health
 
-!(img/SESTAVA1.jpg)
-!(img/sestava2.jpg)
-!(img/zastery.jpg)
+![picture](img/SESTAVA1.jpg)
+![picture](img/sestava2.jpg)
+![picture](img/zastery.jpg)
 
 ### You can find my portfolio here:
 https://www.behance.net/jirichyla
