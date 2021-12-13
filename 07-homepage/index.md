@@ -1,2 +1,2 @@
 # Jiří Chyla
-- [View my CV](04-experience/index.md)
+- [View my CV](english_for_designers/04-experience/index.md)
