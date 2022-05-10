@@ -25,3 +25,6 @@ When we knew what kind of environment we are working with, we set a direction of
 
 ![Stylescape.](img/Stylescape.png) 
 
+#### New Logo
+
+![Stylescape.](img/Logo.png) 
