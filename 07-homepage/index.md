@@ -14,3 +14,7 @@
 - [Layout second](https://github.com/Quidoo/english_for_designers/blob/main/09-layout/index.md)
 - [Thesis Digest](https://github.com/Quidoo/english_for_designers/blob/main/10-thesis%20digest/index.md)
 - [Presentation](https://ajovt-1-21-22.slack.com/archives/C03B3R35H2Q/p1652199621252719)
+
+## Extra
+- [Takeaways](https://github.com/Quidoo/english_for_designers/blob/main/takeaway/index.md)
+- [Year review](https://github.com/Quidoo/english_for_designers/blob/main/Year%20review/index.md)
