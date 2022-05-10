@@ -19,8 +19,27 @@ I liked the thought behind the brand so I wanted to use a rebrand of Tattoos on 
 
 ## References
 KAFKA, Ondřej, Michal KOTYZA. Logo and Corporate Identity [3rd edition]
+
 WHEELER, Alina. Designing Brand Identity: an essential guide for the whole branding team [5th edition]
+
 KOTLER, Philip. Moderní marketing [4th edition]
+
 DEMELLO, Margo. Bodies of inscription: A cultural history of the modern tattoo community
 
 ## Images
+
+-Logo
+![Logo](img/Logo.png)
+
+-Stickers
+![Stickers](img/27_urban_poster_mockup.jpg)
+
+-Posters
+![Poster1](img/81_urban_poster_mockup.jpg)
+![Poster2](img/114_urban_poster_mockup.jpg)
+![Poster3](img/133_urban_poster_mockup.jpg)
+![Poster4](img/outdoor.jpg)
+
+-Packaging
+![packaging](Mockup_vlastni_vsechno.jpg)
+
