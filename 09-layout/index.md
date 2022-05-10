@@ -9,7 +9,7 @@ fashion, tattoo community, tattoos, visual identity, sustainability
 ## Presentation
 #### Old name and visual identity
 <center>
-![image](https://user-images.githubusercontent.com/92363631/167651958-dea81aca-04ab-41ce-93d8-74f26ed79f17.png)
+  <img src=![image](https://user-images.githubusercontent.com/92363631/167651958-dea81aca-04ab-41ce-93d8-74f26ed79f17.png)>
 </center>
 
 ![image](https://user-images.githubusercontent.com/92363631/167651999-2ea77530-4b95-4a2f-a077-d2a4aaf4dc0d.png)
