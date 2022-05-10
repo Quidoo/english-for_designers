@@ -35,7 +35,7 @@ Stickers
 ![Stickers.](27_urban_poster_mockup.jpg) 
 
 Social Media
-![Socials.](Obrázek 50_Poznej svého tatéra.jpg) 
+![Socials.](poznej.jpg) 
 ![Socials2.](Storycka.png) 
 ![Socials3.](ctvrty-prispevek.jpg)
 
