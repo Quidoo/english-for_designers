@@ -9,6 +9,6 @@ fashion, tattoo community, tattoos, visual identity, sustainability
 ## Presentation
 #### Old name and visual identity
 
-
+![Old Visual Identity.](img/Tattoosonclothes.png)
 
 The old name was too specific, unoriginal, and it restricted future growth. The new name Dirty Soul goes better with the tonality of the brand and it is more abstract.
