@@ -29,6 +29,6 @@ Maybe be less lazy. People think I work too much but I do not think I work enoug
 conversate, conversate, conversate, having a native speaker is a great opportunity for students to get better at English.
 
 ## 10. What advice would you give to students going into this subject next year?
-Be open, talk about anything you have on your mind. You are an awesome person and really easy to talk to. They need to use this opportunity to get better at English a to get to know you better.
+Be open, talk about anything you have on your mind. You are an awesome person and really easy to talk to. They need to use this opportunity to get better at English and to get to know you better.
 
 # Thank you and lets grab a beer soon!
