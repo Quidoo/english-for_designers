@@ -7,7 +7,7 @@ This work deal with a rebranding of a fashion brand that cooperates with tattoo 
 fashion, tattoo community, tattoos, visual identity, sustainability 
 
 ## Presentation
-# Old name and visual identity
+#### Old name and visual identity
 ![image](https://user-images.githubusercontent.com/92363631/167651958-dea81aca-04ab-41ce-93d8-74f26ed79f17.png)
 ![image](https://user-images.githubusercontent.com/92363631/167651999-2ea77530-4b95-4a2f-a077-d2a4aaf4dc0d.png)
 ![image](https://user-images.githubusercontent.com/92363631/167652013-5038fd3c-f26c-4e21-9928-80694fe5c34b.png)
