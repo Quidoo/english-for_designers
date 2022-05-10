@@ -36,13 +36,18 @@ Stickers
 
 Social Media
 ![Socials.](poznej.jpg) 
+
 ![Socials2.](Storycka.png) 
+
 ![Socials3.](ctvrty-prispevek.jpg)
 
 Posters
 ![Poster 1.](133_urban_poster_mockup.jpg) 
+
 ![Poster 2.](114_urban_poster_mockup.jpg) 
+
 ![Poster 3.](81_urban_poster_mockup.jpg) 
+
 ![Poster 4.](outdoor.jpg) 
 
 
