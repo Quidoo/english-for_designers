@@ -16,3 +16,11 @@ Originally I wanted to use this bachelor thesis as an opportunity to create my o
 Thankfully I was contacted by a fashion brand called Tattoos on clothes.  It was established during the pandemic to help struggling artists. In their case, they chose to help tattoo artists. These artists create designs for clothes and people can buy them and support them. But they had problems with visual communication. It did not communicate with the target audience. Then there was a need for a change of their name. It was too specific which restrict them from future growth.
 
 I liked the thought behind the brand so I wanted to use a rebrand of Tattoos on Clothes as a topic of my bachelor thesis. Everything went smoothly. Owners were young people open to new ideas. We changed the name of the brand and made a new logo. But after a few weeks, I was told that they do not have money to run the brand and they canceled it. I decided to continue with the rebrand on my own. I wanted to create into brand and community that tattoo artists want to work with. I did not want to only sell t-shirts but I wanted to create a space of exposure for the artists. Because of financial problems, I changed the business model of the brand too. I wanted the brand to be cheap to run and sustainable.
+
+## References
+KAFKA, Ondřej, Michal KOTYZA. Logo and Corporate Identity [3rd edition]
+WHEELER, Alina. Designing Brand Identity: an essential guide for the whole branding team [5th edition]
+KOTLER, Philip. Moderní marketing [4th edition]
+DEMELLO, Margo. Bodies of inscription: A cultural history of the modern tattoo community
+
+## Images
