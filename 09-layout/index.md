@@ -23,5 +23,5 @@ We needed to create a space that communicates with the target audience
 
 When we knew what kind of environment we are working with, we set a direction of a visual identity
 
-![Stylescape.](img/Obrázek 25_Stylescape.png)
+![Stylescape.](img/Obrázek 25_Stylescape.png) 
 
