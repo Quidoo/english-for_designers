@@ -32,23 +32,25 @@ When we knew what kind of environment we are working with, we set a direction of
 #### Visual Identity
 
 Stickers
-![Stickers.](27_urban_poster_mockup.jpg) 
+
+![Stickers.](img/27_urban_poster_mockup.jpg) 
 
 Social Media
-![Socials.](poznej.jpg) 
 
-![Socials2.](Storycka.png) 
+![Socials.](img/poznej.jpg) 
 
-![Socials3.](ctvrty-prispevek.jpg)
+![Socials2.](img/Storycka.png) 
+
+![Socials3.](img/ctvrty-prispevek.jpg)
 
 Posters
-![Poster 1.](133_urban_poster_mockup.jpg) 
+![Poster 1.](img/133_urban_poster_mockup.jpg) 
 
-![Poster 2.](114_urban_poster_mockup.jpg) 
+![Poster 2.](img/114_urban_poster_mockup.jpg) 
 
-![Poster 3.](81_urban_poster_mockup.jpg) 
+![Poster 3.](img/81_urban_poster_mockup.jpg) 
 
-![Poster 4.](outdoor.jpg) 
+![Poster 4.](img/outdoor.jpg) 
 
 
 
