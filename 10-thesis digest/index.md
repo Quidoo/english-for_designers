@@ -41,5 +41,5 @@ DEMELLO, Margo. Bodies of inscription: A cultural history of the modern tattoo c
 ![Poster4](img/outdoor.jpg)
 
 -Packaging
-![packaging](Mockup_vlastni_vsechno.jpg)
+![packaging](img/Mockup_vlastni_vsechno.jpg)
 
