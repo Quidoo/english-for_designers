@@ -18,3 +18,10 @@ The old name was too specific, unoriginal, and it restricted future growth. The 
 We needed to create a space that communicates with the target audience
 
 ![Moodboard.](img/Moodboard.jpg)
+
+#### Stylescape
+
+When we knew what kind of environment we are working with, we set a direction of a visual identity
+
+![Stylescape.](img/Obrázek 25_Stylescape.png)
+
