@@ -4,6 +4,7 @@
 - **Email:** chyla@gadzook.cz
 - **Acknowledgement:** I would like to thank MgA. Miroslav Roubíček for guidance through this thesis and through my study which helped me to get better in my field. Furthermore, I would like to thank all the tattoo artists for their help and feedback. And finally, I want to thank my parents and friends for all their support.
 - **Data Accessibility/Availability Statement:** There is no data archived.
+- **Word count:** 597
 
 # Digest: Rabranding of a fashion brand
 ## Abstract
